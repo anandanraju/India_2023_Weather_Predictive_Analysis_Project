@@ -26,8 +26,40 @@ A weather forecast is made up of three steps: observation and analysis, extrapol
 
 ![weather forecast](https://user-images.githubusercontent.com/110320717/215154411-e1cfddd6-6964-45a7-86c9-b7e0d78e36b3.jpg)
 
+## Precipitation :
+
+Precipitation is water that falls back to the surface of the earth upon condensing in the atmosphere. In other words, any form of water which falls, whether it is in liquid or frozen form, falls as precipitation only. Now that we are clear on what is precipitation, let us move on to the different types. You can consider heavy or light rain as precipitation and even snow, drizzle and hail.
+
+Types of Precipitation : 
+
+Precipitation plays a major part in the water cycle as it is the one which brings in the deposit of freshwater on the planet. It can be divided into three categories depending upon the form such as:
+
+- Liquid water
+- Ice
+- Liquid water freezes when comes in contact with the surface
+
+## Temperature :
+
+Temperature, measure of hotness or coldness expressed in terms of any of several arbitrary scales and indicating the direction in which heat energy will spontaneously flow i.e., from a hotter body (one at a higher temperature) to a colder body (one at a lower temperature).
+
+Three temperature scales are in general use today. 
+
+- The Fahrenheit (°F) temperature scale is used in the United States and a few other English-speaking countries. 
+- The Celsius (°C) temperature scale is standard in virtually all countries that have adopted the metric system of measurement, and it is widely used in the sciences. 
+- The Kelvin (K) scale, an absolute temperature scale (obtained by shifting the Celsius scale by −273.15° so that absolute zero coincides with 0 K), is recognized as the international standard for scientific temperature measurement.
+
+<a id="table"></a>
 # Table of Contents
 
-1. Import Libraries
-2. Reading and Checking Dataset
-3. Exploratory Data Analysis
+1. [Import Libraries & Install Packages](#import)
+2. [Reading and Checking Dataset](#read)
+3. [Exploratory Data Analysis](#eda)
+4. [Checking for Missing Value](#check)
+5. [Training ML Model](#train)
+6. [Evaluate Model](#eva)
+7. [Function to Make Prediction](#func)
+8. [Addition of Rolling Means](#roll)
+9. [Adding Monthly and Daily Averages](#add)
+10. [Running Model Diagnostics](#run)
+11. [GeoMap Creation](#geo)
+12. [Creation of Pandas Profiling Report](#create)
