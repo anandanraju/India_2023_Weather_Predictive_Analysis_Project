@@ -14,7 +14,7 @@ Short Range Forecasting | Medium Range Forecasting | Long-Range Forecasts
 
 **Weather Forecasting Process**
 
-A weather forecast is made up of three steps: observation and analysis, extrapolation to determine the state of the atmosphere in the future, and estimation of specific variables. One method of qualitative extrapolation is to conclude the weather features will continue to travel in the same direction as they have been.
+A weather forecast is made up of three steps: Observation and Analysis of Precipitation and Temperature change of Indian weather in 2023 with the help of previous year data from 2008 to 2022. To determine the state of the atmosphere in the future, and estimation of specific variables. One method of qualitative extrapolation is to conclude the weather features will continue to travel in the same direction as they have been.
 
 > **Observation and Analysis**
 
@@ -28,11 +28,11 @@ A weather forecast is made up of three steps: observation and analysis, extrapol
 
 ## Precipitation :
 
-Precipitation is water that falls back to the surface of the earth upon condensing in the atmosphere. In other words, any form of water which falls, whether it is in liquid or frozen form, falls as precipitation only. Now that we are clear on what is precipitation, let us move on to the different types. You can consider heavy or light rain as precipitation and even snow, drizzle and hail.
+Precipitation is water that falls back to the surface of the earth upon condensing in the atmosphere. In other words, any form of water which falls, whether it is in liquid or frozen form, falls as precipitation only. Now that we are clear on what is precipitation, let us move on to the different types. You can consider heavy or light rain as precipitation and even snow, drizzle, and hail.
 
 Types of Precipitation : 
 
-Precipitation plays a major part in the water cycle as it is the one which brings in the deposit of freshwater on the planet. It can be divided into three categories depending upon the form such as:
+Precipitation plays a major part in the water cycle as it is the one that brings in the deposit of freshwater on the planet. It can be divided into three categories depending upon the form such as:
 
 - Liquid water
 - Ice
