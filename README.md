@@ -8,6 +8,8 @@
 
 Weather forecasting is the use of science and technology to forecast atmospheric conditions for a certain place and period.
 
+![weather forecast](https://user-images.githubusercontent.com/110320717/215154411-e1cfddd6-6964-45a7-86c9-b7e0d78e36b3.jpg)
+
 **Types of Weather Forecasting**
 
 Short Range Forecasting | Medium Range Forecasting | Long-Range Forecasts
@@ -23,8 +25,6 @@ A weather forecast is made up of three steps: Observation and Analysis of Precip
 2. The data is then compiled, redistributed in the GTS, and used in various numerical forecasting models. Typically, these numerical models begin with data collected between the hours of 0000 and 1200 UTC (7 A.M. and 7 P.M. Eastern Standard Time, respectively).
 
 3. To aid the forecaster, the data is printed, mapped, and graphed in several ways. Furthermore, some "initialization" routines slightly change the data when it enters a prediction model only for that model.
-
-![weather forecast](https://user-images.githubusercontent.com/110320717/215154411-e1cfddd6-6964-45a7-86c9-b7e0d78e36b3.jpg)
 
 ## Precipitation :
 
